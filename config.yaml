@@ -1,0 +1,65 @@
+# ===========================================================
+#  Einstellungen für den Deal-Bot
+#  Ändern: auf GitHub die Datei öffnen -> Stift-Symbol -> ändern
+#  -> "Commit changes". Wirkt ab dem nächsten Lauf.
+#  Wichtig: Einrückung (Leerzeichen) und "- " vor Listeneinträgen
+#  so lassen, wie sie sind.
+# ===========================================================
+
+# Ein Deal wird gemeldet, wenn er mindestens so viel Prozent
+# unter dem Vergleichspreis liegt.
+min_rabatt_prozent: 50
+
+# Suchbegriffe: Ein Deal passt, wenn einer dieser Begriffe im Titel
+# vorkommt (Groß-/Kleinschreibung egal). Teilwörter zählen auch:
+# "kopfhörer" findet auch "In-Ear-Kopfhörer".
+suchbegriffe:
+  - kopfhörer
+  - kopfhoerer
+  - headphones
+  - earbuds
+  - sneaker
+  - laufschuhe
+  - smartwatch
+  - jacke
+
+# Kategorien: Namen so, wie sie in der Mydealz-Adresse stehen.
+# Beispiel: mydealz.de/gruppe/elektronik  ->  elektronik
+# Alle Deals aus diesen Kategorien werden geprüft.
+kategorien:
+  - elektronik
+  - fashion-accessoires
+
+# Wie Suchbegriffe und Kategorien kombiniert werden:
+#   oder = Deal passt, wenn Suchbegriff ODER Kategorie passt (mehr Treffer)
+#   und  = Deal muss in einer Kategorie sein UND einen Suchbegriff enthalten
+verknuepfung: oder
+
+# Deals mit diesen Wörtern im Titel oder Text werden ignoriert.
+ausschlusswoerter:
+  - refurbished
+  - generalüberholt
+  - gebraucht
+  - b-ware
+  - wie neu
+
+# Allgemeine Feeds, in denen nach den Suchbegriffen gesucht wird.
+# Normalerweise nicht ändern.
+feeds:
+  - https://www.mydealz.de/rss/new
+  - https://www.mydealz.de/rss/hot
+
+# ---------- Technische Einstellungen (meist nicht ändern) ----------
+
+# Wie viele Mydealz-Deal-Seiten pro Lauf höchstens gelesen werden.
+# Der Rest kommt beim nächsten Lauf dran. Bitte nicht zu hoch setzen.
+max_detailseiten_pro_lauf: 15
+
+# Pause zwischen zwei Seitenabrufen in Sekunden (Rücksicht auf Mydealz).
+pause_zwischen_abrufen_sekunden: 3
+
+# Nach so vielen Tagen werden alte Einträge aus seen.json gelöscht.
+seen_aufbewahrung_tage: 30
+
+# Gratis-Deals (0 €) melden? true = ja, false = nein
+freebies_melden: false
