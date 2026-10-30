@@ -1298,5 +1298,25 @@
   "gemeldet": false,
   "info": "kein Preis",
   "zeit": "2026-10-30T21:12:45+00:00"
+ },
+ "2861927": {
+  "gemeldet": true,
+  "info": "-51 % vs. UVP",
+  "zeit": "2026-10-30T22:08:28+00:00"
+ },
+ "2861932": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-10-30T22:08:24+00:00"
+ },
+ "2861938": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-10-30T22:08:21+00:00"
+ },
+ "2861940": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-10-30T22:08:17+00:00"
  }
 }
