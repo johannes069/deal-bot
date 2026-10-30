@@ -819,9 +819,19 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-10-30T00:04:21+00:00"
  },
+ "2861444": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-10-30T05:41:25+00:00"
+ },
  "2861449": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-10-30T01:54:00+00:00"
+ },
+ "2861465": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-10-30T05:41:21+00:00"
  }
 }
