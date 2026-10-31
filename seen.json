@@ -1364,6 +1364,11 @@
   "info": "kein Preis",
   "zeit": "2026-10-31T00:52:33+00:00"
  },
+ "2861987": {
+  "gemeldet": false,
+  "info": "-17 % vs. UVP",
+  "zeit": "2026-10-31T06:14:17+00:00"
+ },
  "2862000": {
   "gemeldet": true,
   "info": "-70 % vs. UVP",
@@ -1373,5 +1378,10 @@
   "gemeldet": false,
   "info": "kein Preis",
   "zeit": "2026-10-31T05:36:46+00:00"
+ },
+ "2862008": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-10-31T06:14:14+00:00"
  }
 }
