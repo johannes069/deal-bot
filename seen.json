@@ -39,6 +39,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-02T12:57:37+00:00"
  },
+ "2828905": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:23:06+00:00"
+ },
  "2830102": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -229,6 +234,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-10-30T12:14:01+00:00"
  },
+ "2853625": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:22:55+00:00"
+ },
  "2853672": {
   "gemeldet": true,
   "info": "-74 % vs. UVP",
@@ -248,6 +258,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-10-30T00:04:18+00:00"
+ },
+ "2854610": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:23:02+00:00"
  },
  "2854945": {
   "gemeldet": false,
@@ -278,6 +293,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-10-30T09:47:54+00:00"
+ },
+ "2856957": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:23:24+00:00"
  },
  "2857414": {
   "gemeldet": false,
@@ -3853,5 +3873,40 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-03T08:11:29+00:00"
+ },
+ "2863944": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:23:13+00:00"
+ },
+ "2863950": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:23:27+00:00"
+ },
+ "2863957": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:23:10+00:00"
+ },
+ "2863963": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:22:59+00:00"
+ },
+ "2863964": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:23:20+00:00"
+ },
+ "2863971": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:23:17+00:00"
+ },
+ "2864002": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-03T09:22:51+00:00"
  }
 }
