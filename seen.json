@@ -6153,5 +6153,40 @@
   "gemeldet": true,
   "info": "-70 % vs. UVP",
   "zeit": "2026-11-06T17:45:29+00:00"
+ },
+ "2866098": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-06T18:48:00+00:00"
+ },
+ "2866099": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-06T18:47:57+00:00"
+ },
+ "2866101": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-06T18:47:53+00:00"
+ },
+ "2866102": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-06T18:47:50+00:00"
+ },
+ "2866110": {
+  "gemeldet": false,
+  "info": "-47 % vs. UVP",
+  "zeit": "2026-11-06T18:48:03+00:00"
+ },
+ "2866125": {
+  "gemeldet": true,
+  "info": "-97 % vs. UVP",
+  "zeit": "2026-11-06T18:47:46+00:00"
+ },
+ "2866128": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-06T18:47:42+00:00"
  }
 }
