@@ -429,6 +429,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-05T20:46:39+00:00"
  },
+ "2856051": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:56:30+00:00"
+ },
  "2856077": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -438,6 +443,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-10-30T09:47:54+00:00"
+ },
+ "2856506": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:57:06+00:00"
  },
  "2856797": {
   "gemeldet": false,
@@ -7418,5 +7428,70 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-09T08:46:55+00:00"
+ },
+ "2867271": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:57:17+00:00"
+ },
+ "2867272": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:57:13+00:00"
+ },
+ "2867274": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:57:10+00:00"
+ },
+ "2867278": {
+  "gemeldet": true,
+  "info": "-66 % vs. UVP",
+  "zeit": "2026-11-09T09:57:02+00:00"
+ },
+ "2867284": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:56:58+00:00"
+ },
+ "2867285": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:56:54+00:00"
+ },
+ "2867287": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-09T09:56:51+00:00"
+ },
+ "2867288": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:56:47+00:00"
+ },
+ "2867289": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:56:44+00:00"
+ },
+ "2867292": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:56:40+00:00"
+ },
+ "2867296": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:56:37+00:00"
+ },
+ "2867299": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-09T09:56:33+00:00"
+ },
+ "2867306": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-09T09:56:26+00:00"
  }
 }
