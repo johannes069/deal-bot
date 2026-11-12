@@ -10284,6 +10284,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-12T11:28:00+00:00"
  },
+ "2869751": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-12T23:40:24+00:00"
+ },
  "2869755": {
   "gemeldet": false,
   "info": "-20 % vs. UVP",
@@ -10698,5 +10703,20 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-12T22:43:12+00:00"
+ },
+ "2870223": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-12T23:40:20+00:00"
+ },
+ "2870228": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-12T23:40:17+00:00"
+ },
+ "2870231": {
+  "gemeldet": false,
+  "info": "-17 % vs. UVP",
+  "zeit": "2026-11-12T23:40:13+00:00"
  }
 }
