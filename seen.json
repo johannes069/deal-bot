@@ -139,6 +139,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-01T08:45:20+00:00"
  },
+ "2834234": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-14T05:46:27+00:00"
+ },
  "2834273": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -11813,5 +11818,10 @@
   "gemeldet": false,
   "info": "kein Preis",
   "zeit": "2026-11-14T04:49:29+00:00"
+ },
+ "2871039": {
+  "gemeldet": true,
+  "info": "-71 % vs. UVP",
+  "zeit": "2026-11-14T05:46:31+00:00"
  }
 }
