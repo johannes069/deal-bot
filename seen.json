@@ -144,6 +144,11 @@
   "info": "-32 % vs. UVP",
   "zeit": "2026-11-11T18:51:26+00:00"
  },
+ "2833789": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-17T21:24:02+00:00"
+ },
  "2833831": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -14879,6 +14884,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-17T18:22:53+00:00"
  },
+ "2874063": {
+  "gemeldet": true,
+  "info": "-51 % vs. UVP",
+  "zeit": "2026-11-17T21:24:17+00:00"
+ },
  "2874064": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -14893,6 +14903,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-17T19:36:42+00:00"
+ },
+ "2874079": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-17T21:24:13+00:00"
  },
  "2874080": {
   "gemeldet": false,
@@ -14913,6 +14928,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-17T19:36:28+00:00"
+ },
+ "2874092": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-17T21:24:09+00:00"
  },
  "2874095": {
   "gemeldet": false,
@@ -14984,6 +15004,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-17T20:26:03+00:00"
  },
+ "2874143": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-17T21:24:06+00:00"
+ },
  "2874144": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -15023,5 +15048,30 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-17T20:25:31+00:00"
+ },
+ "2874181": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-17T21:23:55+00:00"
+ },
+ "2874186": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-17T21:23:52+00:00"
+ },
+ "2874188": {
+  "gemeldet": true,
+  "info": "-90 % vs. UVP",
+  "zeit": "2026-11-17T21:23:47+00:00"
+ },
+ "2874193": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-17T21:23:59+00:00"
+ },
+ "2874194": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-17T21:23:43+00:00"
  }
 }
