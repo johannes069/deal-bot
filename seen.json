@@ -534,6 +534,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-02T14:10:31+00:00"
  },
+ "2852784": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:24+00:00"
+ },
  "2852830": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -15459,6 +15464,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-18T09:57:30+00:00"
  },
+ "2874491": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:43+00:00"
+ },
  "2874495": {
   "gemeldet": false,
   "info": "-22 % vs. UVP",
@@ -15468,6 +15478,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-18T09:57:23+00:00"
+ },
+ "2874502": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:40+00:00"
  },
  "2874535": {
   "gemeldet": false,
@@ -15499,6 +15514,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-18T10:59:19+00:00"
  },
+ "2874552": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:36+00:00"
+ },
  "2874553": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -15508,6 +15528,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-18T10:59:12+00:00"
+ },
+ "2874557": {
+  "gemeldet": true,
+  "info": "-52 % vs. UVP",
+  "zeit": "2026-11-18T18:19:32+00:00"
  },
  "2874558": {
   "gemeldet": false,
@@ -15538,6 +15563,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-18T10:58:51+00:00"
+ },
+ "2874575": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:27+00:00"
  },
  "2874576": {
   "gemeldet": false,
@@ -15774,6 +15804,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-18T14:18:19+00:00"
  },
+ "2874789": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:20+00:00"
+ },
  "2874791": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -15808,6 +15843,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-18T15:27:32+00:00"
+ },
+ "2874814": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:17+00:00"
  },
  "2874816": {
   "gemeldet": false,
@@ -15983,5 +16023,40 @@
   "gemeldet": false,
   "info": "kein Preis",
   "zeit": "2026-11-18T17:29:18+00:00"
+ },
+ "2874957": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:09+00:00"
+ },
+ "2874961": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:06+00:00"
+ },
+ "2874967": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:02+00:00"
+ },
+ "2874970": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:19:13+00:00"
+ },
+ "2874979": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:18:59+00:00"
+ },
+ "2874987": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-18T18:18:55+00:00"
+ },
+ "2874994": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-18T18:18:52+00:00"
  }
 }
