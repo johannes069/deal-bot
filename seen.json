@@ -369,6 +369,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-09T16:34:50+00:00"
  },
+ "2843852": {
+  "gemeldet": false,
+  "info": "-49 % vs. UVP",
+  "zeit": "2026-11-20T15:27:02+00:00"
+ },
  "2844888": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -18239,6 +18244,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-20T11:54:53+00:00"
  },
+ "2876979": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:24+00:00"
+ },
  "2876981": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -18359,10 +18369,20 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-20T11:54:18+00:00"
  },
+ "2877084": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:27:13+00:00"
+ },
  "2877087": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-20T11:54:15+00:00"
+ },
+ "2877088": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:27:10+00:00"
  },
  "2877093": {
   "gemeldet": false,
@@ -18503,5 +18523,60 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-20T14:16:10+00:00"
+ },
+ "2877234": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:48+00:00"
+ },
+ "2877246": {
+  "gemeldet": false,
+  "info": "-15 % vs. UVP",
+  "zeit": "2026-11-20T15:26:45+00:00"
+ },
+ "2877253": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:41+00:00"
+ },
+ "2877256": {
+  "gemeldet": false,
+  "info": "--246 % vs. UVP",
+  "zeit": "2026-11-20T15:26:58+00:00"
+ },
+ "2877262": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:38+00:00"
+ },
+ "2877271": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:27:06+00:00"
+ },
+ "2877272": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:34+00:00"
+ },
+ "2877273": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:31+00:00"
+ },
+ "2877277": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:27+00:00"
+ },
+ "2877287": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:55+00:00"
+ },
+ "2877295": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T15:26:52+00:00"
  }
 }
