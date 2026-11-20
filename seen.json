@@ -17944,6 +17944,11 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-20T05:59:44+00:00"
  },
+ "2876645": {
+  "gemeldet": false,
+  "info": "-9 % vs. UVP",
+  "zeit": "2026-11-20T07:10:33+00:00"
+ },
  "2876649": {
   "gemeldet": false,
   "info": "kein Preis",
@@ -17954,6 +17959,11 @@
   "info": "kein Preis",
   "zeit": "2026-11-20T05:59:30+00:00"
  },
+ "2876657": {
+  "gemeldet": false,
+  "info": "-13 % vs. UVP",
+  "zeit": "2026-11-20T07:10:45+00:00"
+ },
  "2876661": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -17963,6 +17973,11 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-20T05:59:19+00:00"
+ },
+ "2876666": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-20T07:10:48+00:00"
  },
  "2876671": {
   "gemeldet": false,
@@ -17988,5 +18003,55 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-20T05:59:51+00:00"
+ },
+ "2876679": {
+  "gemeldet": true,
+  "info": "-70 % vs. UVP",
+  "zeit": "2026-11-20T07:10:40+00:00"
+ },
+ "2876681": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T07:10:29+00:00"
+ },
+ "2876682": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T07:10:26+00:00"
+ },
+ "2876699": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-20T07:10:22+00:00"
+ },
+ "2876708": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T07:10:18+00:00"
+ },
+ "2876709": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T07:10:36+00:00"
+ },
+ "2876713": {
+  "gemeldet": false,
+  "info": "-37 % vs. UVP",
+  "zeit": "2026-11-20T07:10:15+00:00"
+ },
+ "2876722": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T07:10:12+00:00"
+ },
+ "2876723": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T07:10:08+00:00"
+ },
+ "2876728": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-20T07:10:05+00:00"
  }
 }
