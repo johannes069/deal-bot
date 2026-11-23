@@ -21024,10 +21024,20 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-23T16:00:32+00:00"
  },
+ "2879706": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:59:14+00:00"
+ },
  "2879707": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-23T16:00:29+00:00"
+ },
+ "2879711": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:59:10+00:00"
  },
  "2879720": {
   "gemeldet": false,
@@ -21073,5 +21083,70 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-23T16:00:04+00:00"
+ },
+ "2879749": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:59:07+00:00"
+ },
+ "2879754": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-23T16:58:52+00:00"
+ },
+ "2879766": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:58:48+00:00"
+ },
+ "2879773": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:58:45+00:00"
+ },
+ "2879776": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:58:41+00:00"
+ },
+ "2879780": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:59:03+00:00"
+ },
+ "2879784": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:58:59+00:00"
+ },
+ "2879786": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:58:38+00:00"
+ },
+ "2879794": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:58:34+00:00"
+ },
+ "2879796": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:58:56+00:00"
+ },
+ "2879797": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-23T16:58:31+00:00"
+ },
+ "2879800": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-23T16:58:27+00:00"
+ },
+ "2879801": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-23T16:58:24+00:00"
  }
 }
