@@ -714,11 +714,6 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-10-31T16:08:28+00:00"
  },
- "2854271": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-28T23:09:26+00:00"
- },
  "2854400": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
@@ -763,11 +758,6 @@
   "gemeldet": false,
   "info": "kein Preis",
   "zeit": "2026-11-24T05:34:36+00:00"
- },
- "2855599": {
-  "gemeldet": false,
-  "info": "kein Preis",
-  "zeit": "2026-10-28T23:09:30+00:00"
  },
  "2855945": {
   "gemeldet": false,
@@ -969,75 +959,15 @@
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-10T08:11:37+00:00"
  },
- "2860262": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-28T23:09:50+00:00"
- },
- "2860301": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-28T23:09:46+00:00"
- },
  "2860316": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-12T15:56:42+00:00"
  },
- "2860332": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-28T23:09:42+00:00"
- },
  "2860355": {
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-11T14:51:42+00:00"
- },
- "2860358": {
-  "gemeldet": true,
-  "info": "-62 % vs. UVP",
-  "zeit": "2026-10-28T23:09:37+00:00"
- },
- "2860361": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-28T23:09:33+00:00"
- },
- "2860490": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-28T23:09:23+00:00"
- },
- "2860491": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-28T23:09:19+00:00"
- },
- "2860504": {
-  "gemeldet": false,
-  "info": "kein Preis",
-  "zeit": "2026-10-28T23:09:15+00:00"
- },
- "2860542": {
-  "gemeldet": true,
-  "info": "-59 % vs. UVP",
-  "zeit": "2026-10-28T23:09:11+00:00"
- },
- "2860596": {
-  "gemeldet": false,
-  "info": "kein Preis",
-  "zeit": "2026-10-28T23:09:06+00:00"
- },
- "2860921": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-29T00:03:47+00:00"
- },
- "2860926": {
-  "gemeldet": false,
-  "info": "kein Vergleichspreis",
-  "zeit": "2026-10-29T01:52:55+00:00"
  },
  "2860935": {
   "gemeldet": false,
@@ -23818,5 +23748,80 @@
   "gemeldet": false,
   "info": "kein Vergleichspreis",
   "zeit": "2026-11-27T22:52:45+00:00"
+ },
+ "2884430": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-28T04:39:50+00:00"
+ },
+ "2884438": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:46+00:00"
+ },
+ "2884442": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:43+00:00"
+ },
+ "2884446": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:39+00:00"
+ },
+ "2884447": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:36+00:00"
+ },
+ "2884448": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:32+00:00"
+ },
+ "2884450": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:29+00:00"
+ },
+ "2884452": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:25+00:00"
+ },
+ "2884466": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-28T04:39:22+00:00"
+ },
+ "2884467": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:19+00:00"
+ },
+ "2884471": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:15+00:00"
+ },
+ "2884472": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:12+00:00"
+ },
+ "2884477": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:08+00:00"
+ },
+ "2884478": {
+  "gemeldet": false,
+  "info": "kein Preis",
+  "zeit": "2026-11-28T04:39:05+00:00"
+ },
+ "2884482": {
+  "gemeldet": false,
+  "info": "kein Vergleichspreis",
+  "zeit": "2026-11-28T04:39:01+00:00"
  }
 }
